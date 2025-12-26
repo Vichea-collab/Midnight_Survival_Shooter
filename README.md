@@ -41,5 +41,4 @@ Midnight Survival is a simple 3D top-down survival game where the player must st
 - Tests: Unity Test Framework is enabled (`com.unity.test-framework`). Add Play Mode or Edit Mode tests under `Assets/Tests` if you create coverage.
 
 ## License and Credits
-- Project code and assets here are licensed under the MIT License (see `LICENSE`).
-- “Survival Shooter” original content by Unity Technologies under Apache 2.0; full third-party notices live in `THIRDPARTY`.
+- Project code and assets here are licensed under the MIT License.
